@@ -1,0 +1,8 @@
+<!DOCTYPE.html>
+<html>
+<body>
+<img src="mango.jpg"  alt="mango.jpg"  height="300"   width="500">
+<img  src="orange.jpg"  alt="orange.jpg" height=''300"  width="500">
+</body>
+</html>
+

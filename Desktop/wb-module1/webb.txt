@@ -1,0 +1,39 @@
+<!DOCTYPE.html>
+<html>
+<body>
+<em>this is test data </em>
+<br>
+<strong>this is test data<strong/>
+<br>
+<b>this is test data </b>
+<br>
+<i>this is test data</i>
+<br>
+<u>this is test data </u>
+<br>
+<s>this is test data</s>
+<br>
+<small>this is test data </small>
+<br>
+this is test<dfn> data</dfn>
+<br>
+<q>this is test data </q>
+<br>
+
+
+e=mc<sup>2</sup>
+<br>
+water=h <sub>2</sub>0
+<br>
+<mark>this is test data</mark>
+<br>
+<ins>this is test data</ins>
+<br>
+<del>this is test data</del>
+<br>
+<br>
+ star<wbr>fish
+<abbr title=web design>WD</abbr>
+</body>
+</html>
+

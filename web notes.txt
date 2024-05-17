@@ -1,0 +1,96 @@
+<!DOCTYPE.html>
+<html>
+<body>
+<em>this is test data </em>
+<br>
+<strong>this is test data<strong/>
+<br>
+<b>this is test data </b>
+<br>
+<i>this is test data</i>
+<br>
+<u>this is test data </u>
+<br>
+<s>this is test data</s>
+<br>
+<small>this is test data </small>
+<br>
+this is test<dfn> data</dfn>
+<br>
+<q>this is test data </q>
+<br>
+
+
+e=mc<sup>2</sup>
+<br>
+water=h <sub>2</sub>0
+<br>
+<mark>this is test data</mark>
+<br>
+<ins>this is test data</ins>
+<br>
+<del>this is test data</del>
+<br>
+<br>
+ star<wbr>fish
+<abbr title=web design>WD</abbr>
+</body>
+</html>
+image
+<img>    empty element
+attribute
+*Src-source file   syc="apple png"
+*alt="apple image"
+*height   height="500"
+*width        ="1000"
+LINK
+attribute URL   <a>     </a> 
+attributes
+href-add url
+eg <a .href="https :\www.google.com">go to google</a>
+*adding image
+<a href="https :\www.facebook.com><img src :"cat png">  </a>
+*RELATIVE URL
+<a href="c\desktop\module1\ul.html">.......</a>
+<!DOCTYPE.html>
+<html>
+<body>
+ <a  href="https :\\www.instagram.com">go to instagram</a>
+ <a  href="https :\\www.google.com"><img  src="mango.jpg" h="300" width ="400"</a>
+</body>
+</html>
+single line text:<input>
+multiple line text:<text adr>    .......</text adr>  used to add addr
+attributes 
+1.name-variable name
+2.value-default value will be taken
+3.minium length
+4.maximum length-8 0r lesser
+5.size-no of visible characters
+6.placeholder-int to user ex ;enter ur nam
+7.rows-
+8.cols
+sample
+
+<label><form>
+<input name="p1" maxlength="20"
+placeholder="enter your name"></form>
+example
+<html>
+<body>
+<form>
+<label>Name</label>
+<input name="p1" maxlength ="20" place holder = "Enter your name">
+<br>
+<label>comment</label>
+<textarea name="s1" maxlength ="100" placeholder ="Enter comments less than 100 words" rows ="10" cols="20"></textarea>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+

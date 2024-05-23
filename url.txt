@@ -1,7 +1,0 @@
-<!DOCTYPE.html>
-<html>
-<body>
-<img src="apple  png"  alt="apple image"  height="300"   width="500">
-img src="orange png"  alt="orange image" height=''300"  width="500'>
-<html/>
-<body/>
